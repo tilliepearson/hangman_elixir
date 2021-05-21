@@ -1,0 +1,3 @@
+%{
+  "dictionary": {:hex, :dictionary, "0.1.1", "fb333a3ee04c514231f0a5e166dd1c27429620b0dabb12fd42e5d28b11657a0a", [:mix], [], "hexpm", "17bae452ab5ecf7bdd75315c6adb44622242de9cf700ab107865ab5557443c2b"},
+}

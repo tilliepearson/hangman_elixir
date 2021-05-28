@@ -20,8 +20,8 @@ defmodule Hangman.MixProject do
 
   # Run "mix help deps" to learn about dependencies.
   defp deps do
-      [
-        {:dictionary, "~> 0.1.0"}
-      ]
+    [
+      {:dictionary, "~> 0.1.0"}
+    ]
   end
 end
